@@ -1,0 +1,4 @@
+CREATE TABLE IF NOT EXISTS people (
+    email VARCHAR(255) NOT NULL,
+    comment TEXT NOT NULL
+);
